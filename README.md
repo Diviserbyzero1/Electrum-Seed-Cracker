@@ -13,3 +13,7 @@ Run python3 elec.py you should see the seed if password is cracked.
 Dependences
 ============
 pycryptodomex
+
+Credits
+=======
+Thanks to @Arash on Telegram for Providing the test file
