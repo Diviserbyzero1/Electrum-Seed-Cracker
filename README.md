@@ -17,3 +17,7 @@ pycryptodomex
 Credits
 =======
 Thanks to @Arash on Telegram for Providing the test file
+
+Donations and Tips
+===============
+BTC:bc1qryksnyts4e5fehnm03j4m4a3jkspqsywavvvlq
