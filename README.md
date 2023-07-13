@@ -13,10 +13,22 @@ Run python3 elec.py you should see the seed if password is cracked.
 Dependences
 ============
 pycryptodomex
+hashlib
+base64
+
+Compactibility
+==============
+python 3.0+
 
 Credits
 =======
 Thanks to @Arash on Telegram for Providing the test file
+
+To-Do
+======
+Add support for extracting encrypting seed from Electrum.dat
+Add support for Python 2.
+Add support for arguments.
 
 Donations and Tips
 ===============
